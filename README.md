@@ -1,7 +1,7 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name:
+Student Name: Lealem Getahun
 
-Track Name: Feature updated
+Track Name: mobile Programming
 
 ![MSD Logo](assets/msd-6th-batch-logo.png "MSD 6th Batch Logo")
